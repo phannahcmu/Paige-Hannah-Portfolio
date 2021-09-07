@@ -1,5 +1,7 @@
 # Paige-Hannah-Portfolio
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/7205599"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 # About me
 My name is Paige Hannah (she/her) and I am a second year MSPPM graduate student (Master of Science in Public Policy and Management). I grew up in Pittsburgh, and I am excited to be back for grad school. Before coming to Heinz, I lived in D.C. for undergrad and the first three years after college. I earned my undergraduate degree from Georgetown University, where I majored in Finance and International Political Economy and Business and minored in French. While at Georgetown, I focused my time outside classes working for the Hilltop Microfinance Initiative, a student-run nonprofit that serves low-income entrepreneurs in the Washington, D.C. metro area.
 
