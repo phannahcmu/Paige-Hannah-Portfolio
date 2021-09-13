@@ -16,9 +16,9 @@ First, I am excited to learn how to use more tools. I am eager to learn more abo
 This section outlines the future components of my portfolio, including expected upload date.
 
 ## Data visualization #1
-### Expected upload date: 09/13/21
+### Upload date: 09/13/21
 
-This is where my assignment will go
+[Data visualization #1 can be found here](/dataviz0913.md)
 
 ## Assignment 3 & 4: Critique by Design
 ### Expected upload date: 09/20/21
