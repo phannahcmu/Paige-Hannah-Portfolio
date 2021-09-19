@@ -23,7 +23,7 @@ This section outlines the future components of my portfolio, including expected 
 ## Assignment 3 & 4: Critique by Design
 ### Expected upload date: 09/20/21
 
-This is where my assignment will go
+[Assignment 3 & 4 can be found here](/dataviz0920.md)
 
 ## Final Project
 ### Part I expected upload date: 09/27/21
