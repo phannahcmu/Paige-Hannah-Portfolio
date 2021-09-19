@@ -8,3 +8,5 @@ This part was already completed and submitted via Google forms
 
 ## Part 3: Wireframe a solution
 I put together three different versions of the chart: a column chart, an area chart, and a slope chart. I decided that I liked #2, the slope chart, best - this is what I shared primarily during part 4 (the testing phase).
+
+Here is wireframe 1:
