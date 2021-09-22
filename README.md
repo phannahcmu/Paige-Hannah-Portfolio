@@ -21,13 +21,13 @@ This section outlines the future components of my portfolio, including expected 
 [Data visualization #1 can be found here](/dataviz0913.md)
 
 ## Assignment 3 & 4: Critique by Design
-### Expected upload date: 09/20/21
+### Upload date: 09/20/21
 
 [Assignment 3 & 4 can be found here](/dataviz0920.md)
 
 ## Final Project
-### Part I expected upload date: 09/27/21
+### Part I upload date: 09/27/21
 ### Part II expected upload date: 10/04/21
 ### Part III expected upload date: 10/12/21
 
-This is where my assignment will go
+[My final project page can be found here](/final_project_Paige_Hannah.md)
