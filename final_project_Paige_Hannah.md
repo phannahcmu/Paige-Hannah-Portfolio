@@ -5,14 +5,16 @@
 
 ## Outline
 I. Introduction
-  A. What are credit scores? What are credit scores used for?
-  B. What affects your credit score?
-  C. Many Americans do not have good credit scores
-  D. This presentation will focus on how it affects your ability to start or expand a small business
-  E. Credit scores should no longer be used for determining whether individuals should receive small business loans
+
+A. What are credit scores? What are credit scores used for?
+B. What affects your credit score?
+C. Many Americans do not have good credit scores
+D. This presentation will focus on how it affects your ability to start or expand a small business
+E. Credit scores should no longer be used for determining whether individuals should receive small business loans
 
 II. Analysis
-  A. Small businesses in America 
+
+A. Small businesses in America 
     1. How do credit scores affect your ability to get a small business loan?
     2. How many Americans start small businesses
     3. What small businesses add to the economy
