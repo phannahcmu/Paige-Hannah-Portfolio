@@ -33,10 +33,27 @@ V. **Conclusion** - The goal of this section is to give the call to action - I w
 
 ## Initial sketches
 
-### Introduction
+### Sketch 1
+![Sketch 1](Sketch 1.jpg)
 
+### Sketch 2
+![Sketch 2](Sketch 2.jpg)
 
-### Analysis
+### Sketch 3
+![Sketch 3](Sketch 3.jpg)
+
+### Sketch 4
+![Sketch 4](Sketch 4.jpg)
+
+### Sketch 5
+![Sketch 5](Sketch 5.jpg)
+
+### Sketch 6
+![Sketch 6](Sketch 6.jpg)
+
+### Sketch 7
+![Sketch 7](Sketch 7.jpg)
+
 
 
 ## The data
