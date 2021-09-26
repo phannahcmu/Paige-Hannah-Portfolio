@@ -54,20 +54,20 @@ V. **Conclusion** - The goal of this section is to give the call to action - I w
 ### Sketch 7
 ![Sketch 7](Sketch 7.jpg)
 
+I decided not to include sketch 8
+
+### Sketch 9
+
+
+### Sketch 10
+
+
+### Sketch 11
+
 
 
 ## The data
 
-
-
-- Data on student loan payments https://www.federalreserve.gov/releases/g19/current/; https://www.consumerfinance.gov/data-research/consumer-credit-trends/student-loans/
-- Student loans over time: Consumer credit outstanding (student loans)
-- Number of student loans, borrower risk profiles, lending to low/moderate income areas
-
-- Health insurance coverage: ACS https://data.census.gov/cedsci/table?d=ACS%201-Year%20Estimates%20Data%20Profiles&tid=ACSDP1Y2019.DP03&hidePreview=false
-- Medical debt: https://www.nytimes.com/2021/07/20/upshot/medical-debt-americans-medicaid.html; https://www.census.gov/library/stories/2021/04/who-had-medical-debt-in-united-states.html
-      
-- Data on credit card bills: https://www.consumerfinance.gov/data-research/consumer-credit-trends/credit-cards/
 
 
 ## Method & medium
