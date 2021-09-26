@@ -14,7 +14,7 @@ I. **Introduction** - The goal of this section is for the audience to develop an
 - How credit scores affect individuals' abilities to get small business loans
 - This presentation will focus on how it affects your ability to start or expand a small business, and argues that credit scores should no longer be used for determining whether individuals should receive small business loans
 
-II. **Analysis** - The goal of this section is for the audience to consider how important small businesses are to the nation's economy, how factors unrelated to business acumen affect credit scores (and therefore ability to get loans to start and expand businesses), and what should be used instead when determining small business loan decisions.
+II. **Analysis** - The goal of this section is for the audience to consider how important small businesses are to the nation's economy, and how factors unrelated to business success pull down credit scores (and therefore reduce an individual's ability to get loans to start and expand businesses).
 
 - Minorities are disproportionately disadvantaged by credit scores, and they also own a disproportionately small number of businesses
 - This has real-world impacts on the U.S. economy
@@ -32,40 +32,43 @@ V. **Conclusion** - The goal of this section is to give the call to action - I w
 - Support organizations helping change the status quo
 
 ## Initial sketches
+### Introduction
 
-### Sketch 1
+#### Sketch 1
 ![Sketch 1](Sketch 1.jpg)
 
-### Sketch 2
+#### Sketch 2
 ![Sketch 2](Sketch 2.jpg)
 
-### Sketch 3
+#### Sketch 3
 ![Sketch 3](Sketch 3.jpg)
 
-### Sketch 4
+#### Sketch 4
 ![Sketch 4](Sketch 4.jpg)
 
-### Sketch 5
+#### Sketch 5
 ![Sketch 5](Sketch 5.jpg)
 
-### Sketch 6
+### Analysis - small businesses
+#### Sketch 6
 ![Sketch 6](Sketch 6.jpg)
 
-### Sketch 7
+#### Sketch 7
 ![Sketch 7](Sketch 7.jpg)
 
 I decided not to include sketch 8
 
-### Sketch 9
+### Analysis - how factors unrelated to small business success pull down credit scores
+#### Sketch 9
 ![Sketch 9](Sketch 9.jpg)
 
-### Sketch 10
+#### Sketch 10
 ![Sketch 10](Sketch 10.jpg)
 
-### Sketch 11
+#### Sketch 11
 ![Sketch 11](Sketch 11.jpg)
 
-### Sketch 12
+#### Sketch 12
 ![Sketch 12](Sketch 12.jpg)
 
 ## The data
