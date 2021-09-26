@@ -57,14 +57,16 @@ V. **Conclusion** - The goal of this section is to give the call to action - I w
 I decided not to include sketch 8
 
 ### Sketch 9
-
+![Sketch 9](Sketch 9.jpg)
 
 ### Sketch 10
-
+![Sketch 10](Sketch 10.jpg)
 
 ### Sketch 11
+![Sketch 11](Sketch 11.jpg)
 
-
+### Sketch 12
+![Sketch 12](Sketch 12.jpg)
 
 ## The data
 
