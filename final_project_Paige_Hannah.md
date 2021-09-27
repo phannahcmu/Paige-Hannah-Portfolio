@@ -5,6 +5,7 @@ One of the policy areas I'm most passionate about is financial inclusion - in ot
 
 I also wanted to share a bit more context about what lead me to consider this as my topic for the final project. This past summer, I interned at the Rockefeller Foundation as part of the Equity and Economic Opportunity team. The team's overarching goal was to decrease the racial wealth gap by improving acccess to capital for Black and Latinx business owners. One of the underlying assumptions of the team members was that since lending gatekeeping mechanisms like credit scores disporportionately negatively affect Black and Latinx individuals, credit scores should be not considered (or minimally considered) when banks and other organizations make loan decisions. I recently shared some of these insights with another class this mini, and I realized that the story behind WHY credit scores are racist and don't belong in loan decisions is not widely known. Therefore, I decided to make it the subject of my final presentation.
 
+
 ## Outline
 I. **Introduction** - The goal of this section is for the audience to develop an understanding of what credit scores are, why they are important, and the thesis of the presentation: that credit scores should no longer be used for determing whether individuals should receive small business loans.
 
@@ -30,6 +31,7 @@ V. **Conclusion** - The goal of this section is to give the call to action - I w
 - The status quo is failing individuals and our country. You can make a difference!
 - Here are the next steps you should take: spread the word (educate yourself, your family, your friends, and your community)
 - Support organizations helping change the status quo
+
 
 ## Initial sketches
 ### Introduction
@@ -71,8 +73,17 @@ I decided not to include sketch 8
 #### Sketch 12
 ![Sketch 12](Sketch 12.jpg)
 
-## The data
 
+## The data
+I have recreated the datasets that I will be using in this Excel file:
+
+Telling this particular story about credit scores requires a variety of data from different sources. Each tab in the Excel document represents a different visualization and includes the data needed to create the visualization, along withe the source(s). All of the data is publicly available.
+
+I followed a specific process when finding the data I needed for the visualizations. First, I began by storyboarding - I developed the narrative and identified which types of data would be needed. For instance, in the introduction, I knew that I wanted to look into credit score components, credit score breakdowns by different categories of Americans (such as generation and race), and other important baseline information about credit scores that would be important for the audience to know.
+
+Next, I spent time doing extensive research and data exploration to understand the story and make sure the data reflected what I expected. There were a few types of sources that I found most helpful: credit score companies or experts (e.g., Experian, Capital One), census data and other consumer data collected by the government, and relevant news articles highlighting specific topics (such as the number of uninsured Americans or student loan debt).
+
+Overall, I am satisfied with the data I was able to find and I am confident that I will be able to create the visualizations I sketched in the previous section. Most of the data was pulled directly out of articles and tables from the various sources, and some basic calculations were completed to make the Census data usable (e.g., accounting for the Latinx population by cross referencing statistics on race and ethnicity). The data was fairly easily obtained and luckily does not require cleaning and interpretting large spreadsheets.
 
 
 ## Method & medium
