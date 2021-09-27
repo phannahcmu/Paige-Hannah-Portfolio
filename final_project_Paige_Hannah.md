@@ -75,7 +75,7 @@ I decided not to include sketch 8
 
 
 ## The data
-I have recreated the datasets that I will be using in this Excel file:
+I have recreated the datasets that I will be using in [This Excel document](/Data for final project.xlsx).
 
 Telling this particular story about credit scores requires a variety of data from different sources. Each tab in the Excel document represents a different visualization and includes the data needed to create the visualization, along withe the source(s). All of the data is publicly available.
 
