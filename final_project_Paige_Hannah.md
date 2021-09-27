@@ -87,5 +87,6 @@ Overall, I am satisfied with the data I was able to find and I am confident that
 
 
 ## Method & medium
+I plan on using Shorthand to create my final project. There are several benefits to me using Shorthand for this project. First, Shorthand will lend itself well to storytelling, only requiring audiences to scroll down, not click through several pages. This will allow the audience to clearly follow the thread of the story. Second, Shorthand fills the function of both presentation and detailed report. During the presentation, I will be able to scroll through the narrative and pause on different visualizations, without overwhelming or distracting the audience. However, it also allows for paragraphs of information to be built out, so if someone is reading through the project, they are able to receive enough detailed analysis. Third, Shorthand allows for easy integration of visualizations (including interactive and animated visualizations). Finally, Shorthand is a new tool for me, so I am excited to develop a new skillset.
 
-
+I will use Flourish and Tableau to create the visualizations themselves. Based on the exercises completed with the homeworks and in class, I believe that both tools will allow me to create the visualizations that I sketched, and enable me to make tweaks to color and other design choices to make the visualizations as effective as possible. I do not foresee using any other tools when creating my final project.
