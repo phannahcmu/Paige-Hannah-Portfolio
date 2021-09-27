@@ -24,10 +24,10 @@ II. **Analysis** - The goal of this section is for the audience to consider how 
 - Ex: medical bills
 - Ex: credit card bills
 
-IV. **Recommendation** - The goal of this section is to provide a clear alternative option to using credit scores for small business loan decisions.
+III. **Recommendation** - The goal of this section is to provide a clear alternative option to using credit scores for small business loan decisions.
 - Base loan decisions off an analysis of business viability
 
-V. **Conclusion** - The goal of this section is to give the call to action - I want the audience to immediate start educating their networks and supporting worthwhile organizations addressing this issue.
+IV. **Conclusion** - The goal of this section is to give the call to action - I want the audience to immediate start educating their networks and supporting worthwhile organizations addressing this issue.
 - The status quo is failing individuals and our country. You can make a difference!
 - Here are the next steps you should take: spread the word (educate yourself, your family, your friends, and your community)
 - Support organizations helping change the status quo
@@ -75,7 +75,7 @@ I decided not to include sketch 8
 
 
 ## The data
-I have recreated the datasets that I will be using in [This Excel document](/Data for final project.xlsx).
+I have recreated the datasets that I will be using in [this Excel document](/Data for final project.xlsx).
 
 Telling this particular story about credit scores requires a variety of data from different sources. Each tab in the Excel document represents a different visualization and includes the data needed to create the visualization, along withe the source(s). All of the data is publicly available.
 
