@@ -1,5 +1,7 @@
 # **Final Project**: Credit scores are holding back future small business owners
 
+# Part I for 09/27/21
+
 ## Overview of topic selection
 One of the policy areas I'm most passionate about is financial inclusion - in other words, making sure that everyone has equitable access to affordable financial tools and resources. Credit scores are a critical gatekeeping mechanism that enables some people to have access to lots of safe financial tools at low cost. However, credit scores are also used to keep many people from accessing these tools - especially potential small business owners. With this presentation, my goal is for my audience to develop an understanding of (American) credit scores, why they are inequitable, the importance of small business owners being able to access capital, and actionable next steps to improve the situation. This is an incredibly important topic that I do not believe gets enough airtime and can benefit from data visualization to make the topic more accessible to all Americans.
 
@@ -90,3 +92,20 @@ Overall, I am satisfied with the data I was able to find and I am confident that
 I plan on using Shorthand to create my final project. There are several benefits to me using Shorthand for this project. First, Shorthand will lend itself well to storytelling, only requiring audiences to scroll down, not click through several pages. This will allow the audience to clearly follow the thread of the story. Second, Shorthand fills the function of both presentation and detailed report. During the presentation, I will be able to scroll through the narrative and pause on different visualizations, without overwhelming or distracting the audience. However, it also allows for paragraphs of information to be built out, so if someone is reading through the project, they are able to receive enough detailed analysis. Third, Shorthand allows for easy integration of visualizations (including interactive and animated visualizations). Finally, Shorthand is a new tool for me, so I am excited to develop a new skillset.
 
 I will use Flourish and Tableau to create the visualizations themselves. Based on the exercises completed with the homeworks and in class, I believe that both tools will allow me to create the visualizations that I sketched, and enable me to make tweaks to color and other design choices to make the visualizations as effective as possible. I do not foresee using any other tools when creating my final project.
+
+*****
+
+# Part II for 10/04/21
+
+## Wireframes & storyboards
+I chose to wireframe my charts using Flourish, and I chose to use Shorthand for my storyboard, which can be found here: https://preview.shorthand.com/OCJ2M6J0xSM4oqlQ
+
+I had already wireframed my stories by hand for final project part I, which was due last week. Therefore, my first step for part II was to work on my storyboard. Using my original outline for part I and feedback from my classmates last Tuesday, I began to put together my storyboard. The first step of my storyboarding process was to take a piece of notebook paper and write out the key ideas I wanted to convey to the audience. I had 7 or 8 bullets that made up the "frames" of my storyboard, from "here is what goes into credit scores" to "the borrowing gap affects anyone who cares about the U.S. economy." I rearranged the bullets into a cohesive storyline and removed anything that felt like too much unnecessary content.
+
+Next, I created a Shorthand project for my storyboard. I spent some time looking for relevant photos from Unsplash that would enhance my story. Using th
+
+
+
+## User research & interviews
+
+
