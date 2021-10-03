@@ -93,12 +93,14 @@ I plan on using Shorthand to create my final project. There are several benefits
 
 I will use Flourish and Tableau to create the visualizations themselves. Based on the exercises completed with the homeworks and in class, I believe that both tools will allow me to create the visualizations that I sketched, and enable me to make tweaks to color and other design choices to make the visualizations as effective as possible. I do not foresee using any other tools when creating my final project.
 
+
 *****
+
 
 # Part II for 10/04/21
 
 ## Wireframes & storyboards
-I chose to wireframe my charts using Flourish, and I chose to use Shorthand for my storyboard, which [can be found here] (https://preview.shorthand.com/OCJ2M6J0xSM4oqlQ)
+I chose to wireframe my charts using Flourish, and I chose to use Shorthand for my storyboard, which can be found here: [https://preview.shorthand.com/OCJ2M6J0xSM4oqlQ].
 
 I had already wireframed my stories by hand for final project part I, which was due last week. Therefore, my first step for part II was to work on my storyboard. Using my original outline for part I and feedback from my classmates last Tuesday, I began to put together my storyboard. The first step of my storyboarding process was to take a piece of notebook paper and write out the key ideas I wanted to convey to the audience. I had 7 or 8 bullets that made up the "frames" of my storyboard, from "here is what goes into credit scores" to "the borrowing gap affects anyone who cares about the U.S. economy." I rearranged the bullets into a cohesive storyline and removed anything that felt like too much unnecessary content.
 
@@ -112,21 +114,22 @@ I went into this phase with the target audience of "anyone who is affected by th
 
 
 **Here is the list of questions I used for my interview script:**
-1) Is the presentation easy to understand? Are there any parts that are unclear, confusing, or could use more of an explanation?
-2) Do I go into too much detail anywhere? Is there anything that should be removed?
-3) Is the presentation aesthetically pleasing?
-4) Are the charts helpful? Do they support the story, or do they seem off topic or distracting?
-5) Are there any other changes you would make? Any other suggestions?
+1. Is the presentation easy to understand? Are there any parts that are unclear, confusing, or could use more of an explanation?
+2. Do I go into too much detail anywhere? Is there anything that should be removed?
+3. Is the presentation aesthetically pleasing?
+4. Are the charts helpful? Do they support the story, or do they seem off topic or distracting?
+5. Are there any other changes you would make? Any other suggestions?
 
 
 **Here are the findings from my interviews:**
-| Question | Person 1 | Person 2 | Person 3 |
-| -------- | -------- | -------- | -------- |
-| 1) Clarity of presentation | -------- | -------- | -------- |
-| 2) Degree of detail | -------- | -------- | -------- |
-| 3) Presentation aesthetics | -------- | -------- | -------- |
-| 4) Charts add to story | -------- | -------- | -------- |
-| 5) Other suggestions | -------- | -------- | -------- |
+
+Question | Person 1 | Person 2 | Person 3
+-------- | -------- | -------- | --------
+1) Clarity of presentation | -------- | -------- | --------
+2) Degree of detail | -------- | -------- | -------
+3) Presentation aesthetics | -------- | -------- | --------
+4) Charts add to story | -------- | -------- | --------
+5) Other suggestions | -------- | -------- | --------
 
 
 **Similarities and differences across interviews:**
