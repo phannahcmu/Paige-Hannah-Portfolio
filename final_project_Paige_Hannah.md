@@ -98,14 +98,40 @@ I will use Flourish and Tableau to create the visualizations themselves. Based o
 # Part II for 10/04/21
 
 ## Wireframes & storyboards
-I chose to wireframe my charts using Flourish, and I chose to use Shorthand for my storyboard, which can be found here: https://preview.shorthand.com/OCJ2M6J0xSM4oqlQ
+I chose to wireframe my charts using Flourish, and I chose to use Shorthand for my storyboard, which [can be found here] (https://preview.shorthand.com/OCJ2M6J0xSM4oqlQ)
 
 I had already wireframed my stories by hand for final project part I, which was due last week. Therefore, my first step for part II was to work on my storyboard. Using my original outline for part I and feedback from my classmates last Tuesday, I began to put together my storyboard. The first step of my storyboarding process was to take a piece of notebook paper and write out the key ideas I wanted to convey to the audience. I had 7 or 8 bullets that made up the "frames" of my storyboard, from "here is what goes into credit scores" to "the borrowing gap affects anyone who cares about the U.S. economy." I rearranged the bullets into a cohesive storyline and removed anything that felt like too much unnecessary content.
 
-Next, I created a Shorthand project for my storyboard. I spent some time looking for relevant photos from Unsplash that would enhance my story. Using th
-
+Next, I created a Shorthand website for my storyboard. I spent some time looking for relevant photos from Unsplash that would enhance my story. Using the photos and key ideas in more storyline, I drafted a rough storyboard outline of my presentation. Finally, I added wireframes of the charts that were most important and best supported the story. I made some aesthetic tweaks to the presentation and experimented with the settings to get to know Shorthand better, since this is my first time using the platform. Once my storyboard was complete and the wireframes were added, I moved to the user research and interviews phase.
 
 
 ## User research & interviews
+I began the user research phase by building out my user research protocol. I entered into the interviews with two main goals I hoped to accomplish: (1) exploring whether the flow of the story works and is convincing to the audience, and (2) testing whether there is too much detail, too little detail, or the right amount of detail throughout the presentation. This is a topic where it would be very easy to go down a rabbit hole by spending too much time on the details, or gloss over concepts that I assumed the audience understands but they actually need defined. 
 
+I went into this phase with the target audience of "anyone who is affected by the U.S. economy." I expect that the audience will be average Americans (or people living in America) with an average understanding of the credit score and financial system. Therefore, I chose three different audience members. The first interview was with a woman in her 50s with an above average understanding of the financial system. The second interview was with a man in his 50s, also with an above average understanding of the financial system, but also works in data analytics so spends time thinking about how to use data to improve existing systems. The third interview was with a man in his 30s who is not a U.S. citizen but does have a strong understanding of financial systems in general. By selecting these three interviewees, I hoped to understand how the story resonated with people of different experiences.
+
+
+**Here is the list of questions I used for my interview script:**
+1) Is the presentation easy to understand? Are there any parts that are unclear, confusing, or could use more of an explanation?
+2) Do I go into too much detail anywhere? Is there anything that should be removed?
+3) Is the presentation aesthetically pleasing?
+4) Are the charts helpful? Do they support the story, or do they seem off topic or distracting?
+5) Are there any other changes you would make? Any other suggestions?
+
+
+**Here are the findings from my interviews:**
+| Question | Person 1 | Person 2 | Person 3 |
+| -------- | -------- | -------- | -------- |
+| 1) Clarity of presentation | -------- | -------- | -------- |
+| 2) Degree of detail | -------- | -------- | -------- |
+| 3) Presentation aesthetics | -------- | -------- | -------- |
+| 4) Charts add to story | -------- | -------- | -------- |
+| 5) Other suggestions | -------- | -------- | -------- |
+
+
+**Similarities and differences across interviews:**
+
+
+
+Based on the feedback I received on my storyboard and wireframes, I am planning on implementing a number of changes to my visualizations and storyboard next week.
 
