@@ -94,6 +94,9 @@ I plan on using Shorthand to create my final project. There are several benefits
 I will use Flourish and Tableau to create the visualizations themselves. Based on the exercises completed with the homeworks and in class, I believe that both tools will allow me to create the visualizations that I sketched, and enable me to make tweaks to color and other design choices to make the visualizations as effective as possible. I do not foresee using any other tools when creating my final project.
 
 
+[Back to the main page](/README.md)
+
+
 *****
 
 
