@@ -43,5 +43,5 @@ Ultimately, I decided to create an area chart using Flourish. I feel that the fi
 <div class="flourish-embed flourish-chart" data-src="visualisation/7304399"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-[Back to the main page](/README.md)
+[Go back to the homepage](/README.md)
 
