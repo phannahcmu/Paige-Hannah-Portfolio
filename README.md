@@ -28,13 +28,13 @@ This section outlines the future components of my portfolio, including expected 
 ## Final Project
 ### Part I upload date: 09/27/21
 
-[My final project Part I can be found here](/final_project_Paige_Hannah.md)
+[Part I can be found here](/final_project_Paige_Hannah.md)
 
 ### Part II upload date: 10/04/21
 
-
+[Part II can be found here](/final_project_part_2_Paige_Hannah.md)
 
 ### Part III expected upload date: 10/12/21
 
-
+[Part III can be found here]
 
