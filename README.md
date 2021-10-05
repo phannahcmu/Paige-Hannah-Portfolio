@@ -15,10 +15,10 @@ First, I am excited to learn how to use more tools. I am eager to learn more abo
 ## Portfolio
 This section outlines the future components of my portfolio, including expected upload date.
 
-### Data visualization #1
+### Data visualization 1
 #### Upload date: 09/13/21
 
-[Data visualization #1 can be found here](/dataviz0913.md)
+[Data visualization 1 can be found here](/dataviz0913.md)
 
 ### Assignment 3 & 4: Critique by Design
 #### Upload date: 09/20/21
@@ -30,7 +30,7 @@ This section outlines the future components of my portfolio, including expected 
 
 [Part I can be found here](/final_project_Paige_Hannah.md)
 
-#### Part II upload date: 10/04/21
+#### Part II upload date: 10/05/21
 
 [Part II can be found here](/final_project_part_2_Paige_Hannah.md)
 
