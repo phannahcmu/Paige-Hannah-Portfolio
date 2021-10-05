@@ -41,3 +41,6 @@ Finally, I showed them the area chart and the slope charts as well. My first int
 Ultimately, I decided to create an area chart using Flourish. I feel that the final version addressed some of the major issues I had with the original visualization and made it easier to see changes in some of the smaller categories of race/ethnicity. I also want to note that I chose a non-traditional color palette because I did not want my audience to have any associations (one of my interviewees mentioned that red and green made them think certain categories were good and bad).
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7304399"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+[Back to the main page](/README.md)
