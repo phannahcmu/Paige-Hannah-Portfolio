@@ -5,5 +5,5 @@
 
 [Go to Part II](/final_project_part_2_Paige_Hannah.md)
 
-[Go back to the main page](/README.md)
+[Go back to the homepage](/README.md)
 
