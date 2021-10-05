@@ -46,5 +46,10 @@ Based on the feedback I received on my storyboard and wireframes, I am planning 
 I look forward to implementing these changes next week, finishing my write-up and including my sources, and creating the final versions of the charts for the final version of my presentation.
 
 
-[Back to the main page](/README.md)
+
+[Go to Part I](/final_project_Paige_Hannah.md)
+
+[Go to Part III](/final_project_part_3_Paige_Hannah.md)
+
+[Go back to the homepage](/README.md)
 
