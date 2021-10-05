@@ -1,6 +1,6 @@
 # **Final Project**: Credit scores are holding back future small business owners
 
-# Part I for 09/27/21
+# Part I
 
 ## Overview of topic selection
 One of the policy areas I'm most passionate about is financial inclusion - in other words, making sure that everyone has equitable access to affordable financial tools and resources. Credit scores are a critical gatekeeping mechanism that enables some people to have access to lots of safe financial tools at low cost. However, credit scores are also used to keep many people from accessing these tools - especially potential small business owners. With this presentation, my goal is for my audience to develop an understanding of (American) credit scores, why they are inequitable, the importance of small business owners being able to access capital, and actionable next steps to improve the situation. This is an incredibly important topic that I do not believe gets enough airtime and can benefit from data visualization to make the topic more accessible to all Americans.
@@ -94,6 +94,9 @@ I plan on using Shorthand to create my final project. There are several benefits
 I will use Flourish and Tableau to create the visualizations themselves. Based on the exercises completed with the homeworks and in class, I believe that both tools will allow me to create the visualizations that I sketched, and enable me to make tweaks to color and other design choices to make the visualizations as effective as possible. I do not foresee using any other tools when creating my final project.
 
 
-[Go back to the homepage](/README.md)
+[Go to Part II](/final_project_part_2_Paige_Hannah.md)
 
+[Go to Part III](/final_project_part_3_Paige_Hannah.md)
+
+[Go back to the homepage](/README.md)
 
