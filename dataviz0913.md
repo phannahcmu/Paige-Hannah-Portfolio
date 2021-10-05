@@ -21,5 +21,5 @@ All three styles of charts tell the audience different stories, though they use 
 Ultimately, I chose the third visualization, the line chart, to display this data. There are a few key benefits to showing all of the countries' data stacked on top of each other. First, this format does allow the audience to see general trends over time for OECD countries (which tells a coherent story), but it does not require the audience to digest 35 separate line charts. (However, if the author wanted the audience to think about each individual country, the second visualization would be better.) Second, this format lets the author highlight different countries. Here, I wanted the audience to focus on four countries that experienced increasing ratios, so I made their lines red while making the other lines pastel so they would not stand out. These two key benefits to storytelling led me to choose visualization #3, a line chart.
 
 
-[Back to the main page](/README.md)
+[Go back to the homepage](/README.md)
 
