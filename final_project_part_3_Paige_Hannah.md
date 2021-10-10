@@ -1,4 +1,8 @@
-# Part III
+# **Final Project**: Credit scores are holding back future small business owners
+
+# Part III for 10/12/21
+
+## Intro
 
 
 [Go to Part I](/final_project_Paige_Hannah.md)
