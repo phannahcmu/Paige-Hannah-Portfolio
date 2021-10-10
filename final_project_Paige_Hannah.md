@@ -1,6 +1,6 @@
 # **Final Project**: Credit scores are holding back future small business owners
 
-# Part I
+# Part I for 09/27/21
 
 ## Overview of topic selection
 One of the policy areas I'm most passionate about is financial inclusion - in other words, making sure that everyone has equitable access to affordable financial tools and resources. Credit scores are a critical gatekeeping mechanism that enables some people to have access to lots of safe financial tools at low cost. However, credit scores are also used to keep many people from accessing these tools - especially potential small business owners. With this presentation, my goal is for my audience to develop an understanding of (American) credit scores, why they are inequitable, the importance of small business owners being able to access capital, and actionable next steps to improve the situation. This is an incredibly important topic that I do not believe gets enough airtime and can benefit from data visualization to make the topic more accessible to all Americans.
