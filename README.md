@@ -34,7 +34,7 @@ This section outlines the future components of my portfolio, including expected 
 
 [Part II can be found here](/final_project_part_2_Paige_Hannah.md)
 
-#### Part III expected upload date: 10/12/21
+#### Part III upload date: 10/12/21
 
 [Part III can be found here](/final_project_part_3_Paige_Hannah.md)
 
